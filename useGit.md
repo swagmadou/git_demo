@@ -27,3 +27,7 @@
 * 合并分支
 
         git merge "branchname"
+
+* 创立远程仓库
+
+        git remote add [shortname] [url]
