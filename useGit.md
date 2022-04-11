@@ -24,3 +24,6 @@
 
         git checkout "branchname"
 
+* 合并分支
+
+        git merge "branchname"
