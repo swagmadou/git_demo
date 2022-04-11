@@ -17,3 +17,10 @@
 * 创建新分支
 
   * 新的分支将独立于master分支
+
+        git branch "branchname"
+
+* 切换分支
+
+        git checkout "branchname"
+
